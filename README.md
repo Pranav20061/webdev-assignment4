@@ -1,0 +1,2 @@
+Create a basic JavaScript quiz game that runs in the browser console, taking user input with prompt() and giving feedback with alert(). The quiz should loop through predefined questions, compare answers using toLowerCase() and trim(), track the score, and display the final result.
+
